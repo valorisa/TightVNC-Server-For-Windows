@@ -1,0 +1,17 @@
+# Logs
+*.log
+C:\Logs\
+
+# Secrets / mots de passe — NE JAMAIS COMMITTER
+secrets.ps1
+*.credential
+*.cred
+
+# Installeurs MSI (trop lourds pour Git)
+*.msi
+*.mst
+
+# Fichiers temporaires Windows
+Thumbs.db
+desktop.ini
+.BIN/
