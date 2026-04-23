@@ -1,0 +1,8 @@
+- Install-TightVNC.ps1    : installation silencieuse MSI
+- Uninstall-TightVNC.ps1  : désinstallation propre + nettoyage
+- Configure-TightVNC.ps1  : configuration registre avancée
+- Enable-Firewall.ps1     : gestion règles pare-feu (Add/Remove/Status)
+- Get-TightVNCStatus.ps1  : rapport d'état complet
+- Set-TightVNCPassword.ps1: changement mot de passe sécurisé
+- Deploy-TightVNC.ps1     : déploiement WinRM multi-machines
+- Test-TightVNCPort.ps1   : test connectivité TCP + bannière RFB"
