@@ -74,7 +74,7 @@ Il s'adresse aussi bien aux administrateurs systèmes souhaitant déployer Tight
 | OS | Windows 11 Enterprise |
 | Shell | PowerShell 7.6.1 |
 | Logiciel cible | TightVNC 2.8.87 |
-| Espace de travail | `C:\Users\bbrod\Projets\tightvnc-2887-windows-guide` |
+| Espace de travail | `C:\Users\bbrod\Projets\TightVNC-Server-For-Windows` |
 | GitHub CLI | `gh` (dernière version stable) |
 
 ---
